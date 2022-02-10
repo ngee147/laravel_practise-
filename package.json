@@ -7,7 +7,7 @@
   "dependencies": {
     "bootstrap-sass": "^3.0.0",
     "laravel-elixir": "^5.0.0",
-    "node-sass": "^4.12.0",
+    "node-sass": "^7.0.0",
     "nvm-win": "^0.2.4"
   }
 }
